@@ -3,12 +3,12 @@
 Design of website to be updated.
 
 ## Leetcode
-* [Best Time To Sell Stocks](BestTimeToSellStocks.md)
-* [Binary Search](BinarySearch.md)
-* [Contain Duplicates](ContainDuplicates.md)
-* [Edit Maximum Subarray](EditMaximumSubarray.md)
+* [Best Time To Sell Stocks](Leetcode/BestTimeToSellStocks.md)
+* [Binary Search](Leetcode/BinarySearch.md)
+* [Contain Duplicates](Leetcode/ContainDuplicates.md)
+* [Edit Maximum Subarray](Leetcode/EditMaximumSubarray.md)
 * [Intersection of Two Arrays II](IntersectionofTwoArraysII.md)
-* [Max Area of Island](MaxAreaOfIsland.md)
-* [Rotate Array](RotateArray.md)
-* [Squres of Sorted Array](SquaresOfSortedArray.md)
-* [Two Sum](TwoSum.md)
+* [Max Area of Island](Leetcode/MaxAreaOfIsland.md)
+* [Rotate Array](Leetcode/RotateArray.md)
+* [Squres of Sorted Array](Leetcode/SquaresOfSortedArray.md)
+* [Two Sum](Leetcode/TwoSum.md)
