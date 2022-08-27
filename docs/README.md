@@ -1,5 +1,3 @@
-# Writings
-
 Design of website to be updated.
 
 ## Leetcode
